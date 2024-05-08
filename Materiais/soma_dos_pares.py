@@ -7,5 +7,5 @@ def soma_par(lista):
             par += numero
     print(f"A soma dos números pares da sua lista é: {par}")
 
-lista = [10, 2, 5, 7, 3]
+lista = [10, 2, 5, 7, 6, 3]
 soma_par(lista)
