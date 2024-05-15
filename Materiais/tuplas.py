@@ -15,5 +15,6 @@
 a = (1, 2, 3, 4)
 b = (5, 6, 7, 7)
 c = a + b
+print(c)
 print(c.index(2))
 print(c.count(7))
